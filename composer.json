@@ -1,0 +1,11 @@
+{
+    "name": "kk-github/3",    
+    "description": "vjezba ko zna koja",
+    "license": "MIT",
+    "require": {
+        "php" : ">=7.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "^9"
+    }
+}
